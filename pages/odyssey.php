@@ -33,7 +33,7 @@
                   <div class="item-title">
                     Odyssey
                   </div><a href=
-                  "itms-services://?action=download-manifest&url=https://rebo-store.com/install/odyssey.php"
+                  "itms-services://?action=download-manifest&url=https://rebo-store.com/install/odyssey.plist"
                   class=
                   "button button-round button-fill button-raised color-green external">Get
                   <i class=
