@@ -33,7 +33,7 @@
                   <div class="item-title">
                     AppCake
                   </div><a href=
-                  "itms-services://?action=download-manifest&url=http://www.rebo-store.com/install/appcake.plist"
+                  "itms-services://?action=download-manifest&url=https://www.rebo-store.com/install/appcake.plist"
                   class=
                   "button button-round button-fill button-raised color-green external">Get
                   <i class=

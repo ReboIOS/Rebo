@@ -13,7 +13,7 @@ routes = [
   },
   {
     path: '/unc0ver',
-    url: './pages/unc0ver.html',
+    url: './pages/unc0ver.php',
   },
   {
     path: '/videostar',
