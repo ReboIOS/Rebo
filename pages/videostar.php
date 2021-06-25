@@ -12,7 +12,7 @@
           "ios-only">Back</span></a>
         </div>
         <div class="title">
-          VideoStar
+          VideoStar++
         </div>
         <div class="right">
           <a href="javascript:window.location.reload(true)" class=
@@ -31,7 +31,7 @@
               <div class="item-inner">
                 <div class="item-title-row">
                   <div class="item-title">
-                    VideoStar
+                    VideoStar++
                   </div><a href=
                   "itms-services://?action=download-manifest&url=https://www.rebo-store.com/install/videostar.plist"
                   class=
@@ -48,7 +48,7 @@
         </ul>
       </div>
       <div class="block-title">
-        About videostar
+        About videostar++
       </div>
       <div class="block block-strong inset elevation-12">
         <pre>ڤیدیۆستار بە هاکراوی 
