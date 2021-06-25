@@ -19,6 +19,10 @@ routes = [
     path: '/videostar',
     url: './pages/videostar.php',
   },
+{
+    path: '/videostarari',
+    url: './pages/videostar(Ari).php',
+  },
   {
     path: '/pubg',
     url: './pages/pubg.php',
