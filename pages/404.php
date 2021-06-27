@@ -21,7 +21,7 @@
   <p class="text2"> ئەم پەڕەیە نەدۆزرایەوە </p>
 <center>
 
-   <a href="http://www.rebo-store.com/"> <button class="btn btn-primary" type="button">Home</button></a>
+   <a href="http://www.rebo-store.tk"> <button class="btn btn-primary" type="button">Home</button></a>
 
 </center>
   <style>
