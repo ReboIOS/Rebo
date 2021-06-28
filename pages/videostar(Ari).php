@@ -33,7 +33,7 @@
                   <div class="item-title">
                     VideoStar(Ari)
                   </div><a href=
-                  "itms-services://?action=download-manifest&url=https://www.rebo-store.com/install/videostar(ari).plist"
+                  "itms-services://?action=download-manifest&url=https://www.rebo-store.tk/install/videostar(ari).plist"
                   class=
                   "button button-round button-fill button-raised color-green external">Get
                   <i class=

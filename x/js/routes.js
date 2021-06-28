@@ -35,6 +35,10 @@ routes = [
     path: '/appcake',
     url: './pages/appcake.php',
   },
+  {
+    path: '/install',
+    url: './pages/install.php',
+  },
   // Default route (404 page). MUST BE THE LAST
   {
     path: '(.*)',
