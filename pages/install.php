@@ -5,11 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="white">
-    <link rel="shortcut icon" href="https://www.kurdstore.info/assets/icon/icon.png" type="image/x-icon">
-    <link rel="apple-touch-icon" href="https://www.kurdstore.info/assets/icon/icon.png" />
-    <link rel="apple-touch-icon" sizes="72x72" href="https://www.kurdstore.info/assets/icon/icon.png" />
-    <link rel="apple-touch-icon" sizes="114x114" href="https://www.kurdstore.info/assets/icon/icon.png" />
-    <title>kurdstore</title>
+    <link rel="shortcut icon" href="http://www.rebo-store.tk/icon.png" type="image/x-icon">
+    <link rel="apple-touch-icon" href="http://www.rebo-store.tk/icon.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="http://www.rebo-store.tk/icon.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="http://www.rebo-store.tk/icon.png" />
+    <title>ReboStore</title>
     <link rel="stylesheet" href="https://app.kurdstore.info//install/bulma.min.css">
     <link rel="stylesheet" href="https://app.kurdstore.info//install/all.css" >
     <link rel="stylesheet" href="https://app.kurdstore.info//install/animate.min.css">
@@ -29,7 +29,7 @@
       return false;
   }
     if(!window.navigator.standalone) {
-      window.location.replace("https://app.kurdstore.info/index.php");
+      window.location.replace("http://rebo-store.tk/index.html");
     }
   }
   </script>
@@ -39,7 +39,7 @@
       <div style="margin-top: -150px;" class="container">
         <center>
         <figure class="image is-128x128">
- <img style="opacity: 0.85; filter: saturate(300%);" src="https://app.kurdstore.info/app.GIF">
+ <img style="opacity: 0.85; filter: saturate(300%);" src="http://www.rebo-store.tk/icon.png">
 </figure>
 <br>
 <h1 style="margin-top: -25px;" class="has-text-black title">
