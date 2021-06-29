@@ -43,9 +43,10 @@
 </figure>
 <br>
 <h1 style="margin-top: -25px;" class="has-text-black title">
-          Ú©ÙˆØ±Ø¯ Ø³ØªÛ†Ø±
+          ReboStore
         </h1>
-        <h2 class="has-text-black subtitle">ØªÚ©Ø§ÛŒÛ• Ú©ÙˆØ±Ø¯ Ø³ØªÛ†Ø± Ø²ÛŒØ§Ø¯Ø¨Ú©Û• Ø¨Û† Ø³Û•Ø± Ø´Ø§Ø³Û•<br><br>
+        <h2 class="has-text-black subtitle">
+تکایە وێبسایت زیادبکە بۆ سەر شاسە <br><br>
           Ø¯Û•Ø³ØªØ¨Ù†ÛŽ Ø¨Û• <i style="color: #007aff!important;" class="f7-icons">square_arrow_up</i> ÙˆÛ•Ù¾Ø§Ø´Ø§Ù†
           <br> "Add to Home Screen".<br><br>
           Ù¾Ø§Ø´Ø§Ù† Ù„Û•Ø³Û•Ø± Ø´Ø§Ø´Û•ÛŒ Ø¦Ø§Ù…ÛŽØ±Û•Ú©Û•Øª Ú©Ø§Ø±ÛŒ Ù¾ÛŽØ¨Ú©Û•
