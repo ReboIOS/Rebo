@@ -28,6 +28,16 @@
     <link rel="stylesheet" href="x/css/icons.css">
     <link rel="stylesheet" href="x/css/app.css">
 </head>
+
+<body onload="iNoBounce.enable();">
+  <script>
+          window.onload = function() {
+           if(!navigator.standalone) {
+              $("body").load('https://app.kurdstore.info/install.html');
+          }
+          }
+  </script>
+
     <div id="app">
         <!-- Status bar overlay for fullscreen mode-->
         <div class="statusbar"></div>
